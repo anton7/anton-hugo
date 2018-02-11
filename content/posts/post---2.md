@@ -4,4 +4,6 @@ draft = true
 title = "Post # 2"
 
 +++
+Here comes posting #2
 
+Welcome
